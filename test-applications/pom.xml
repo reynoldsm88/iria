@@ -7,4 +7,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>test-applications</artifactId>
+    <packaging>pom</packaging>
+    
+    
+    <modules>
+        <module>iria-helloworld-rest</module>
+    </modules>
 </project>
